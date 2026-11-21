@@ -1,0 +1,11 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.impeccable/config.local.json
+.impeccable/*.cache.json
+.gemini/
+.env*
+!.env.example

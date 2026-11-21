@@ -1,0 +1,6 @@
+{
+  "name": "Sawit 3D — Siklus Pertumbuhan & Referensi UI",
+  "description": "Eksplorasi 3D interaktif siklus pertumbuhan kelapa sawit dari bibit hingga dewasa berbuah, dilengkapi 4 referensi UI modern yang dapat dicoba langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
